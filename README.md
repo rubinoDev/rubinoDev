@@ -22,7 +22,7 @@ Hi there, I'm [Víctor Rubiño](https://www.linkedin.com/in/victorrubinodev/), a
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172705367-81f81db2-3354-4fdf-b008-c5e182a9f2d1.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172874428-4256946b-2e5f-439f-9ff0-704460c764a7.png"></code>
 
-<br><br>!
+<br><br>
 
 
 ## 👤 Where to find me : <br>

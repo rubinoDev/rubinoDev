@@ -20,8 +20,10 @@ Hi there, I'm [Víctor Rubiño](https://www.linkedin.com/in/victorrubinodev/), a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172704836-e414ed0e-ff5e-4be6-8fc6-b31c7aeaf68c.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172705367-81f81db2-3354-4fdf-b008-c5e182a9f2d1.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/105171818/172874428-4256946b-2e5f-439f-9ff0-704460c764a7.png"></code>
 
-<br><br>
+<br><br>!
+
 
 ## 👤 Where to find me : <br>
 <p><a href="https://github.com/rubinoDev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/victorrubinodev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

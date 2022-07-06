@@ -17,6 +17,8 @@ Hi there, I'm [Víctor Rubiño](https://www.linkedin.com/in/victorrubinodev/), a
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172703361-f53520bc-1db4-4a45-af4b-36e797bfe3ba.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/105171818/175970376-df058cd8-28b9-4ed2-940a-50397dd7077f.png" title="TypeScript"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/105171818/175971816-d4d71c0c-d66e-4287-8380-7086839fa2c6.png" title="NodeJS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172704836-e414ed0e-ff5e-4be6-8fc6-b31c7aeaf68c.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172705367-81f81db2-3354-4fdf-b008-c5e182a9f2d1.png"></code>

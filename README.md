@@ -25,7 +25,7 @@ Hi there, I'm [Víctor Rubiño](https://www.linkedin.com/in/victorrubinodev/), a
 <code><img height="20" src="https://user-images.githubusercontent.com/105171818/172874428-4256946b-2e5f-439f-9ff0-704460c764a7.png"></code>
 
 <br><br>
-
+[![rubinoDev](https://github-readme-stats.vercel.app/api/top-langs/?username=rubinoDev&hide=html&layout=compact=true&theme=default)](https://github.com/rubinoDev/)
 
 ## 👤 Where to find me : <br>
 <p><a href="https://github.com/rubinoDev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/victorrubinodev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

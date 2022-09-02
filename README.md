@@ -7,7 +7,7 @@
 
 
 ## 📟   Passionate about technology since the first time I played video games
-Hi there, I'm [Víctor Rubiño](https://www.linkedin.com/in/victorrubinodev/), a front end developer from brazil. Turning ideas into something concrete, easy to use and with a beautiful layout and design is my daily fuel.<br> <br> <br>
+Hi there, I'm [Víctor Rubiño](https://www.linkedin.com/in/victorrubinodev/), a Frontend developer from brazil. Turning ideas into something concrete, easy to use and with a beautiful layout and design is my daily fuel.<br> <br> <br>
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
